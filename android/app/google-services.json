@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174630395597",
+    "firebase_url": "https://lofound-default-rtdb.firebaseio.com",
+    "project_id": "lofound",
+    "storage_bucket": "lofound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174630395597:android:52585a6f7db34ae2c91384",
+        "android_client_info": {
+          "package_name": "com.example.lofo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174630395597-an2j0kap9gca9ee4rbd8k9r2mdie2jvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lofo",
+            "certificate_hash": "290aa25ebbf2fcfefeb4bb556dc3a398a955f4d4"
+          }
+        },
+        {
+          "client_id": "174630395597-hg90vn930qphh0utm9e03l0rrd1p9sjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLJAvPX1GZlZi8riEweEUs91jD40mcow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174630395597-hg90vn930qphh0utm9e03l0rrd1p9sjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174630395597-e8ipmipc5s0fvaopa67211o4ejhl2g63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lofo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
